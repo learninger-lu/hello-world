@@ -6,9 +6,9 @@ this is my first try on github,its Nov.12
 '
 growp(int a, int b);
 '
-'''
+<
 github(float a);
-'''
+>
 [^n]:脚注试验
 *1
 *2233
