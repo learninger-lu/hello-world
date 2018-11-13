@@ -1,5 +1,5 @@
-[1]:脚注标注方法为此。本文件用于markdown语言试验使用;
-# hello-world [1] 
+[^x]:脚注标注方法为此。本文件用于markdown语言试验使用;
+# hello-world [^x] 
 first -try
 this is my first try on github,its Nov.12 
 ## Markdown notes
