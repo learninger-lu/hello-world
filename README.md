@@ -1,5 +1,17 @@
-[^x]:脚注标注方法为此。本文件用于markdown语言试验使用;
-# hello-world [^x] 
+
+# hello-world 
+
+
+
+[//]: # footprint is not supported in Github
+
+
+- [X] task list1
+- [ ] list2
+- [X] \(Optional)  list2
+
+
+
 first -try
 this is my first try on github,its Nov.12 
 ## Markdown notes
@@ -24,3 +36,6 @@ this is my first try on github,its Nov.12
 =high light=              
 ![photo](H:\U\IMG_1715.jpg) ;
 
+
+read the format help
+[help for fomat](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists)
