@@ -1,4 +1,4 @@
-# hello-world  [^1:脚注标注方法为此。本文件用于markdown语言试验使用]
+# hello-world [^1] 
 first -try
 this is my first try on github,its Nov.12 
 ## Markdown notes [^2:二级标题使用双#]
@@ -22,3 +22,4 @@ this is my first try on github,its Nov.12
 
 =high light=               [^n:this one is not used]
 ![photo](H:\U\IMG_1715.jpg) [^n:this one is picture on the internet.]
+[^1]:脚注标注方法为此。本文件用于markdown语言试验使用
